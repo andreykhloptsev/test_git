@@ -1,1 +1,2 @@
 sout("hello git");
+sout("new string");
